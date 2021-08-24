@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "mobile-servicing-6b579",
+    "y": "mobile-services-ddc3f",
+    "no": "assignment-9-d0480",
+    "firebase use --add": "mobile-services-ddc3f"
+  },
+  "targets": {}
+}
